@@ -1,1 +1,1 @@
-# spring_jpa
+# springboot_jpa
